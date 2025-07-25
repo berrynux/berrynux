@@ -39,10 +39,13 @@ purposes such as:
 
 + Origin App: https://bellard.org/jslinux/
 
-+ Modified App: http://berrynux.com
++ Berrynux @ GitHub: https://github.com/berrynux
 
-+ ZIM File: http://berrynux.com/zim/
++ Berrynux Library: http://berrynux.com:8080
 
-+ LICENSE: http://berrynux.com/license.html
++ ZIM Files: http://berrynux.com/zims/
+
++ LICENSE: http://berrynux.com/license/
+
 
 ```
